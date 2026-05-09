@@ -3,14 +3,14 @@
     justify-content: space-between;
     align-items: center;
     background: #ffffff;
-    padding: 10px;
-    margin-bottom: 10px;
+    padding: 15px;
+    margin-bottom: 15px;
     border-radius: 10px;
 }
 
 .order-item button {
     border: none;
-    background: #ff0000;
+    background: #ff0043;
     color: #ffffff;
     padding: 5px 10px;
     cursor: pointer;
@@ -18,5 +18,5 @@
 }
 
 .total-price {
-    margin-top: 20px;
+    margin-top: 25px;
 }

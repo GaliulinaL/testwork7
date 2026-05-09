@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #f4f4f4;
+  background: #ffffff;
 }
 
 .container {
@@ -12,7 +12,7 @@ body {
 
 .left-block {
   width: 35%;
-  background: #f7d6bf;
+  background: #523b39;
   padding: 20px;
   border-radius: 14px;
 }

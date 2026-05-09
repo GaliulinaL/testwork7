@@ -1,15 +1,15 @@
 .item-card {
     width: 180px;
-    background: white;
+    background: #f8e0cc;
     border-radius: 12px;
     padding: 15px;
     cursor: pointer;
-    border: 2px solid #1f6692;
+    border: 2px solid #bea08b;
 }
 
 .item-card img {
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
 }
 
 .item-card h3 {
