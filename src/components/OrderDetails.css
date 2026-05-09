@@ -1,0 +1,22 @@
+.order-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #ffffff;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.order-item button {
+    border: none;
+    background: #ff0000;
+    color: #ffffff;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+.total-price {
+    margin-top: 20px;
+}
