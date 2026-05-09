@@ -1,0 +1,17 @@
+.item-card {
+    width: 180px;
+    background: white;
+    border-radius: 12px;
+    padding: 15px;
+    cursor: pointer;
+    border: 2px solid #1f6692;
+}
+
+.item-card img {
+    width: 60px;
+    height: 60px;
+}
+
+.item-card h3 {
+    margin: 10px 0 5px;
+}
