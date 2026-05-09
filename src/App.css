@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+
+.container {
+  display: flex;
+  gap: 30px;
+  padding: 40px;
+}
+
+.left-block {
+  width: 35%;
+  background: #f7d6bf;
+  padding: 20px;
+  border-radius: 14px;
+}
+
+.right-block {
+  flex-grow: 1;
+  background: #b7e3ea;
+  padding: 20px;
+  border-radius: 14px;
+}
+
+.items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
